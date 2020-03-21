@@ -1,1 +1,3 @@
-// This is main.js and so far I do nothing.
+// This is main.js and I am printing statements.
+
+console.log("I am a console.log statement.");
